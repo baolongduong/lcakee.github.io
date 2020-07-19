@@ -1,0 +1,14 @@
+body
+{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h4
+{
+    position: relative;
+    color: white;
+    display: inline;
+    left: 20px;
+}
